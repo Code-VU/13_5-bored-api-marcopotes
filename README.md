@@ -63,3 +63,5 @@ Recommended Activity: Have a football scrimmage with some friends
 
 ### BONUS:
 As a bonus exercise, try doing these requests in the browser or on Postman. You can also try to add in extra parameters! You can even try looking up your own API to write Python code for!
+
+You can also try using the Requests module.
