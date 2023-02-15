@@ -3,11 +3,11 @@ import urllib.request
 import urllib.parse
 
 
-def find_activities():
+def assignment_13_5():
     print("***Activity Generator ***")
     # Write your code here
     # Don't forget to strip() your inputs!
-    
 
 
-find_activities()
+if __name__ == "__main__":
+    assignment_13_5()
